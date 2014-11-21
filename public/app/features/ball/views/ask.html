@@ -1,0 +1,11 @@
+
+<h2>Ask your question...</h2>
+<form ng-submit="ask()">
+    <div class="form-group">
+        <textarea id="Question" name="Question" ng-model="model.question" class="form-control" placeholder="Question"></textarea>
+    </div>
+    <div class="form-group">
+        <button type="submit" class="btn btn-primary btn-lg">Ask</button>
+    </div>
+    {{alert()}}
+</form>

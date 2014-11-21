@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="2399370723">
+    <data-source source="LOCAL" name="Rails Test_Magic: development" uuid="bf5e4c95-1e2b-427b-8ad6-27bb5ebcef5a">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:Test_Magic_development</jdbc-url>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails Test_Magic: test" uuid="f74cf2a9-9973-4b06-98dc-4d18b5da2799">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:Test_Magic_test</jdbc-url>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails Test_Magic: production" uuid="ccd0bcfe-1533-412a-8e50-f82abd94f637">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:Test_Magic_production</jdbc-url>
+      <user-name>Test_Magic</user-name>
+      <user-password>df96df8fdf97df8adfefdfe4dffcdff1df8ddffedfefdff9dffedff5dfe7dfebdfeddfe3dfe9dff5dfeedfebdffedfebdfe8dfebdff9dfefdff5dffadfebdff9dff9dffddfe5dff8dfeedf8ddff7df8adf8fdf94</user-password>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
